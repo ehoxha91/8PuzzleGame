@@ -11,3 +11,11 @@ python3 driver_3.py <method> <board>
 <board>: 0,1,2,4,3,5,6,7,8
 
 Results will be shown on the output.txt file in the form of:
+
+path_to_goal:
+cost_of_path:
+nodes_expanded: 
+search_depth: 
+max_search_depth: 
+running_time: 
+max_ram_usage: 
