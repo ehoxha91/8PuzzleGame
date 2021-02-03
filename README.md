@@ -8,6 +8,7 @@ To execute this code type this:
 - `python3 driver_3.py <method> <board>`
 
 `<method>: bfs, dfs & ast`
+
 `<board>: 0,1,2,4,3,5,6,7,8`
 
 Results will be shown on the output.txt file in the form of:
