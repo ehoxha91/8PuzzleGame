@@ -1,5 +1,5 @@
 # 8-Puzzle Game
-Project 1 for Artificial Intelligence course from Columbia University - through www.edx.org
+Project 1 for Artificial Intelligence course from Columbia University
 
 8-Puzzle game problem and solution solved with three different search algorithms: BFS, DFS and A*.
 
